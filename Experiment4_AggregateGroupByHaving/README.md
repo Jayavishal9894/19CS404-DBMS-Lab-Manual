@@ -169,8 +169,8 @@ having SUM(salary)>5000;
 <img width="642" height="432" alt="image" src="https://github.com/user-attachments/assets/f1f4fcc4-817d-4b42-98c8-4b01d6c46cad" />
 
 ## Module Examination (SEB):
+<img width="818" height="157" alt="{F4F3BD15-9EFB-4EBB-BAAB-AC1524604B68}" src="https://github.com/user-attachments/assets/b7064801-75b1-48d1-aa4b-ecd567138982" />
 
-![Uploading {F4F3BD15-9EFB-4EBB-BAAB-AC1524604B68}.png…]()
 
 
 
